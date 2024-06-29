@@ -1,5 +1,7 @@
 # VBOXMANAGE
 
+![image](https://github.com/BwithE/vboxmanage/assets/144924113/f0fb876d-cae0-4c0f-a2bb-6323d0151a30)
+
 # Summary:
 VBManage is a PowerShell script designed for managing VirtualBox VMs with ease. It offers a user-friendly menu-driven interface to perform various tasks:
 
