@@ -7,7 +7,7 @@
 ```.\vboxmanage.ps1```
 
 # Summary:
-VBManage is a PowerShell script designed for managing VirtualBox VMs with ease. It offers a user-friendly menu-driven interface to perform various tasks:
+VBManage is a PowerShell script designed for managing VirtualBox VMs with ease. It offers a user friendly menu driven interface to perform various tasks:
 
 - **Create VM:** Easily create new VMs specifying CPU, RAM, disk size, and OS type.
 
